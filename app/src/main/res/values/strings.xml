@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Composible_List_Like_Facebook</string>
+    <string name="delete">delete</string>
+    <string name="delete_icon">R.drawable.baseline_delete_24</string>
+    <string name="user_photo">user photo</string>
+    <string name="clicked_on">Click</string>
+</resources>
